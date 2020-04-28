@@ -1,1 +1,1 @@
-_includes/02-image.md
+https://octodex.github.com/images/yaktocat.png
